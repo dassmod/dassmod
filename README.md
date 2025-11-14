@@ -1,50 +1,39 @@
-# 👋 Hi, I'm Das
+# Hi, I'm Das
 
-## 🚀 About Me
-Platform Integration & Automation Specialist transitioning into **AI Engineering** with a focus on **Web3 + AI convergence**.
+**Platform Integration and Automation Specialist** transitioning into **AI Engineering** with a focus on **conversational AI** and **Web3 integration**.
 
-I'm bridging two worlds: bringing AI intelligence to blockchain systems and decentralized infrastructure to AI applications.
+## Current Focus
 
-## 🎯 Current Focus (2024-2025)
-- 🐍 Learning Python, Machine Learning, and AI Agent Development
-- 🤖 Building conversational AI systems (just completed healthcare chatbot for clinic)
-- 🔗 Exploring Web3 + AI integration (DeFi bots, decentralized AI)
-- 📚 Following: **100 Days of Python → ML Fundamentals → LangChain → Blockchain AI**
+Learning **Python**, **Machine Learning**, and **AI Agent Development**. Building **conversational AI systems** with practical applications in healthcare and business automation.
 
-## 💼 What I'm Building
-- **Healthcare AI Chatbot** - Appointment scheduling & patient FAQ automation with Botpress
-- **Python Learning Journey** - Daily coding practice and projects ([see progress](link-to-python-repo))
-- **Web3 + AI Projects** (Coming soon) - Smart contracts integrated with AI agents
+## What I'm Building
 
-## 🛠️ Tech Stack
+**Healthcare AI Chatbot**  
+Multi-channel appointment scheduling and patient FAQ automation using **Botpress**, deployed on **Telegram** and **WhatsApp**.
+
+**Python Learning Journey**  
+Following the **100 Days of Code bootcamp** to build strong fundamentals in **Python**, **data science**, and **machine learning**.
+
+## Tech Stack
 
 **Currently Learning:**
-- Python, NumPy, Pandas, Scikit-learn
-- AI Agent Frameworks (LangChain, LangGraph)
-- Machine Learning fundamentals
+- **Python**, **NumPy**, **Pandas**, **Scikit-learn**
+- **AI Agent Frameworks** (LangChain, LangGraph)
+- **Machine Learning** fundamentals
+- **Botpress** for conversational AI
 
 **Previous Experience:**
-- Solidity, Smart Contracts, Foundry
-- Platform Integration & Automation
-- JavaScript, Web3.js
+- **Solidity**, **Smart Contracts**, **Foundry**
+- **Platform Integration** and **Automation**
 
-## 🌱 2025 Goals
-1. Master Python and ML fundamentals (Q1)
-2. Build production-ready AI agents (Q2)
-3. Launch freelance AI automation services (Q2-Q3)
-4. Deep dive into Web3 + AI integration (Q3-Q4)
-5. Contribute to decentralized AI projects (Bittensor, Fetch.ai)
+## 2025-2026 Roadmap
 
-## 📫 Connect With Me
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 📧 Email: dasmodubash@gmail.com
-- 🐦 Twitter: [Your Twitter] (if you have one)
+**Q4 2025** → Master **Python** and **ML fundamentals**  
+**Q1 2026** → Build **production-ready AI agents**  
+**Q2-Q3 2026** → Launch **freelance AI development services**  
+**Q4 2026** → Deep dive into **Web3 and AI integration**  
 
-## 📊 GitHub Stats
-![Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=dassmod&show_icons=true&theme=radical)
+## Connect
 
----
-
-💡 **Open to collaborations** on AI agents, healthcare automation, and Web3 + AI projects!
-
-*"Building the future where AI meets decentralization"*
+**LinkedIn:** https://www.linkedin.com/in/dastan-modubash/  
+**Email:** dasmodubash@gmail.com
