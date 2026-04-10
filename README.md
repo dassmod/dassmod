@@ -1,10 +1,10 @@
 # Hi, I'm Das
 
-Partner Success Engineer at [newo.ai](https://newo.ai) — I customize, deploy, debug and maintain AI voice agents at scale.
+Partner Success Engineer at [newo.ai](https://newo.ai) - I customize, deploy, debug and maintain AI voice agents at scale.
 
 ## What I'm About
 
-I believe blockchain can reshape how trust works between people, and AI can make us genuinely smarter and more capable. I want to spend my life building things at that intersection — partly because it matters, partly because it's just really cool.
+I believe blockchain can reshape how trust works between people, and AI can make us genuinely smarter and more capable. I want to spend my life building things at that intersection - partly because it matters, partly because it's just really cool.
 
 ## What I'm Building
 
