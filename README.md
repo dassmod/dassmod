@@ -1,39 +1,21 @@
 # Hi, I'm Das
 
-**Platform Integration and Automation Specialist** transitioning into **AI Engineering** with a focus on **conversational AI** and **Web3 integration**.
+Partner Success Engineer at [newo.ai](https://newo.ai) — I customize, deploy, debug and maintain AI voice agents at scale.
 
-## Current Focus
+## What I'm About
 
-Learning **Python**, **Machine Learning**, and **AI Agent Development**. Building **conversational AI systems** with practical applications in healthcare and business automation.
+I believe blockchain can reshape how trust works between people, and AI can make us genuinely smarter and more capable. I want to spend my life building things at that intersection — partly because it matters, partly because it's just really cool.
 
 ## What I'm Building
 
-**Healthcare AI Chatbot**  
-Multi-channel appointment scheduling and patient FAQ automation using **Botpress**, deployed on **Telegram** and **WhatsApp**.
+I keep forgetting stuff I study, so I'm building a [Smart Repetition Agent](https://github.com/dassmod/smart-repetition-agent) to fix that.
 
-**Python Learning Journey**  
-Following the **100 Days of Code bootcamp** to build strong fundamentals in **Python**, **data science**, and **machine learning**.
+## Skills
 
-## Tech Stack
-
-**Currently Learning:**
-- **Python**, **NumPy**, **Pandas**, **Scikit-learn**
-- **AI Agent Frameworks** (LangChain, LangGraph)
-- **Machine Learning** fundamentals
-- **Botpress** for conversational AI
-
-**Previous Experience:**
-- **Solidity**, **Smart Contracts**, **Foundry**
-- **Platform Integration** and **Automation**
-
-## 2025-2026 Roadmap
-
-**Q4 2025** → Master **Python** and **ML fundamentals**  
-**Q1 2026** → Build **production-ready AI agents**  
-**Q2-Q3 2026** → Launch **freelance AI development services**  
-**Q4 2026** → Deep dive into **Web3 and AI integration**  
+**AI & Agents:** Python · Claude API · Agent Orchestration · Multi-Agent Systems · LLM Integration  
+**Blockchain:** Solidity · Smart Contracts · Foundry · EVM · Ethereum Sepolia  
+**Studying:** zk-ML · Verifiable AI Inference · Decentralized Training · On-Chain Validation
 
 ## Connect
 
-**LinkedIn:** https://www.linkedin.com/in/dastan-modubash/  
-**Email:** dasmodubash@gmail.com
+[LinkedIn](https://www.linkedin.com/in/dastan-modubash/) · dasmodubash@gmail.com
