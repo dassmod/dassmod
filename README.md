@@ -1,20 +1,26 @@
 # Hi, I'm Das
 
-Partner Success Engineer at [newo.ai](https://newo.ai) - I customize, deploy, debug and maintain AI voice agents at scale.
+Solution Engineer at [newo.ai](https://newo.ai) - I design, deploy, debug and run AI voice agents in production.
 
 ## What I'm About
 
-I believe blockchain can reshape how trust works between people, and AI can make us genuinely smarter and more capable. I want to spend my life building things at that intersection - partly because it matters, partly because it's just really cool.
+I believe blockchain can reshape how trust works between people, and AI can make us smarter and more capable. I want to spend my life building things at that intersection - partly because it matters, partly because it's just really cool.
 
-## What I'm Building
+## Where I'm Heading
 
-I keep forgetting stuff I study, so I'm building a [Smart Repetition Agent](https://github.com/dassmod/smart-repetition-agent) to fix that.
+Decentralized AI: systems where you don't have to take the machine's word for it. Verifiable inference, distributed training, agents that can prove on-chain what they did.
+
+## Projects
+
+**[Smart Repetition Agent](https://github.com/dassmod/smart-repetition-agent)** - reads my Obsidian course notes, generates questions with Claude, schedules reviews with FSRS, and records proof of learning on Ethereum. Off-chain compute, on-chain proof.
+
+**[Plain Strata](https://open.spotify.com/show/033nrMjXzL8wvhrNHPZWem)** - a weekly podcast on decentralized AI, layer by layer. Full depth, plain language, no hype.
 
 ## Skills
 
-**AI & Agents:** Python · Claude API · Agent Orchestration · Multi-Agent Systems · LLM Integration  
-**Blockchain:** Solidity · Smart Contracts · Foundry · EVM · Ethereum Sepolia  
-**Studying:** zk-ML · Verifiable AI Inference · Decentralized Training · On-Chain Validation
+**AI & Agents:** Python · Claude API & Agent SDK · Multi-Agent Systems · Prompt & Scenario Engineering · Voice (Twilio, WebRTC)  
+**Blockchain:** Solidity · Foundry · EVM · web3.py · Ethereum Sepolia  
+**Studying:** zk-ML · Verifiable Inference · Decentralized Training · Bittensor
 
 ## Connect
 
