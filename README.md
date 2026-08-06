@@ -16,10 +16,12 @@ Decentralized AI: systems where you don't have to take the machine's word for it
 
 **[Plain Strata](https://open.spotify.com/show/033nrMjXzL8wvhrNHPZWem)** - a weekly podcast on decentralized AI, layer by layer. Full depth, plain language, no hype.
 
+**Solidity fundamentals** - course implementations, rebuilt properly: [nft-gated-dao](...) (36 tests, 100% line coverage), [chainlink-vrf-raffle](...), [chainlink-price-feed-crowdfund](...)
+
 ## Skills
 
 **AI & Agents:** Python · Claude API & Agent SDK · Multi-Agent Systems · Prompt & Scenario Engineering · Voice (Twilio, WebRTC)  
-**Blockchain:** Solidity · Foundry · EVM · web3.py · Ethereum Sepolia  
+**Blockchain:** Solidity · Foundry · EVM · Chainlink (VRF, Price Feeds, Automation) · OpenZeppelin · web3.py · Ethereum Sepolia
 **Studying:** zk-ML · Verifiable Inference · Decentralized Training · Bittensor
 
 ## Connect
