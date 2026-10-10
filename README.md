@@ -1,29 +1,29 @@
 # Hi, I'm Das
 
-Solution Engineer at [newo.ai](https://newo.ai) - I design, deploy, debug and run AI voice agents in production.
+Solution Engineer at newo.ai. I design, ship and debug AI voice agents in production.
 
-## What I'm About
+## What I'm about
 
-I believe blockchain can reshape how trust works between people, and AI can make us smarter and more capable. I want to spend my life building things at that intersection - partly because it matters, partly because it's just really cool.
+I believe technology should spread capability, not concentrate it. Blockchain can change how trust works between people, and AI can make ordinary people more capable. I want to build where the two meet: AI that no single company holds the off switch for, and agents whose runs anyone can check.
 
-## Where I'm Heading
+## Building
 
-Decentralized AI: systems where you don't have to take the machine's word for it. Verifiable inference, distributed training, agents that can prove on-chain what they did.
+- **[proof-of-agent-run](https://github.com/dassmod/proof-of-agent-run)**: a replay engine for AI agent runs. It re-derives the steps a machine can re-derive and reports what matched, what diverged, and what it could not check.
+- **[smart-repetition-agent](https://github.com/dassmod/smart-repetition-agent)**: reads my notes, asks questions with Claude, schedules reviews with FSRS, and settles proof of learning on Ethereum Sepolia.
+- **Solidity fundamentals**: course projects rebuilt properly. [nft-gated-dao](https://github.com/dassmod/nft-gated-dao) (36 tests, mutation-checked, repaired frontend), chainlink-vrf-raffle, chainlink-price-feed-crowdfund.
 
-## Projects
+## Plain Strata
 
-**[Smart Repetition Agent](https://github.com/dassmod/smart-repetition-agent)** - reads my Obsidian course notes, generates questions with Claude, schedules reviews with FSRS, and records proof of learning on Ethereum. Off-chain compute, on-chain proof.
-
-**[Plain Strata](https://open.spotify.com/show/033nrMjXzL8wvhrNHPZWem)** - a weekly podcast on decentralized AI, layer by layer. Full depth, plain language, no hype.
-
-**Solidity fundamentals** - course implementations, rebuilt properly: [nft-gated-dao](...) (36 tests, 100% line coverage), [chainlink-vrf-raffle](...), [chainlink-price-feed-crowdfund](...)
+A twice-weekly podcast and newsletter on decentralized AI, layer by layer. Full depth, plain language, no hype. [Apple Podcasts](https://podcasts.apple.com/us/podcast/plain-strata/id6783455764) · [Newsletter](https://buttondown.com/plainstrata)
 
 ## Skills
 
-**AI & Agents:** Python · Claude API & Agent SDK · Multi-Agent Systems · Prompt & Scenario Engineering · Voice (Twilio, WebRTC)  
+**AI & Agents:** Python · Claude API & Agent SDK · Multi-Agent Systems · Prompt & Scenario Engineering · Voice (Twilio, WebRTC)
+
 **Blockchain:** Solidity · Foundry · EVM · Chainlink (VRF, Price Feeds, Automation) · OpenZeppelin · web3.py · Ethereum Sepolia
+
 **Studying:** zk-ML · Verifiable Inference · Decentralized Training · Bittensor
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/dastan-modubash/) · dasmodubash@gmail.com
+[dasmod.xyz](https://dasmod.xyz) · [LinkedIn](https://www.linkedin.com/in/dastan-modubash) · [X](https://x.com/dassmod) · dasmodubash@gmail.com
