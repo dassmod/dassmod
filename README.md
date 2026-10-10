@@ -1,6 +1,6 @@
 # Hi, I'm Das
 
-Solution Engineer at newo.ai. I design, ship and debug AI voice agents in production.
+Solution Engineer. I ship AI agents in production and build the tools that make their runs verifiable. Plain Strata, a podcast on decentralized AI.
 
 ## What I'm about
 
