@@ -30,4 +30,4 @@ A twice-weekly podcast and newsletter on decentralized AI, layer by layer. Full 
 
 ## Connect
 
-[dasmod.xyz](https://dasmod.xyz) · [LinkedIn](https://www.linkedin.com/in/dastan-modubash) · [X](https://x.com/dassmod) · dasmodubash@gmail.com
+[dasmod.xyz](https://dasmod.xyz) · [Plain Strata](https://plainstrata.com/) · [LinkedIn](https://www.linkedin.com/in/dastan-modubash) · [X](https://x.com/dassmod) · dasmodubash@gmail.com
