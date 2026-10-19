@@ -18,7 +18,7 @@ I believe technology should spread capability, not concentrate it. Blockchain ca
 
 ## Plain Strata
 
-A twice-weekly podcast and newsletter on decentralized AI, layer by layer. Full depth, plain language, no hype. [Apple Podcasts](https://podcasts.apple.com/us/podcast/plain-strata/id6783455764) · [Newsletter](https://buttondown.com/plainstrata)
+A twice-weekly podcast and newsletter on decentralized AI, layer by layer. Full depth, plain language, no hype. [Website](https://plainstrata.com/)
 
 ## Skills
 
